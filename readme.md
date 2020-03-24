@@ -1,9 +1,8 @@
-# Paper template for the pinga-lab (*replace with paper title*)
+# A repository for my paper: *replace with paper title*)
 
 by
-Bagus Tris Atmaja
-Author 2,
-etc
+Bagus Tris Atmaja,
+Email: bagus@ep.its.ac.id
 
 > This is a template for papers that use Python code and Jupyter notebooks to
 > generate their results (though it can be adapted to use other technologies).
