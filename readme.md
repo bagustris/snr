@@ -1,4 +1,4 @@
-# A repository for my paper: *replace with paper title*)
+# A repository for my paper: *replace with paper title*
 
 by
 Bagus Tris Atmaja,
