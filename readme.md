@@ -1,4 +1,4 @@
-# A repository for my paper: *replace with paper title*
+# A repository for paper: *replace with paper title*
 
 by
 Bagus Tris Atmaja,
@@ -98,6 +98,9 @@ article content, which is currently submitted for publication in the
 JOURNAL NAME.
 
 
-## References
-
-[1] https://github.com/pinga-lab/paper-template
+## Citation
+Please cite this work as:  
+``` 
+Atmaja, Bagus Tris. A simple scientific paper repository for reproducible research.
+url: https://github.com/bagustris/paper_template, 2020. 
+```
