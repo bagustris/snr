@@ -1,0 +1,4 @@
+todo:  
+- shows tree
+- explain why fig is located iside latex
+
