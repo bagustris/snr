@@ -1,5 +1,4 @@
-# A repository for paper: 
-*On The Differences Between Song and Speech Emotion Recognition: Effect of Feature Sets, Feature Types, and Classifiers*
+# A repository for paper *"On The Differences Between Song and Speech Emotion Recognition: Effect of Feature Sets, Feature Types, and Classifiers"*
 
 
 by
