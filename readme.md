@@ -1,4 +1,4 @@
-# A repository for paper *"A simple repository template for reproducible research based on Python recipe"*
+# A repository for paper *"Automatic Speech Naturalness Recognition from Acted Dialogue"*
 
 
 by
