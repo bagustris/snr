@@ -1,4 +1,4 @@
-# A repository for paper *"On The Differences Between Song and Speech Emotion Recognition: Effect of Feature Sets, Feature Types, and Classifiers"*
+# A repository for paper *"A simple repository template for reproducible research based on Python recipe"*
 
 
 by
@@ -116,7 +116,5 @@ JOURNAL NAME.
 ## Citation
 Please cite this work as:  
 ``` 
-B.T. Atmaja and M. Akagi, “On The Differences Between Song and Speech Emotion
-Recognition: Effect of Feature Sets, Feature Types, and Classifiers”, TENCON 2020
-- 2020 IEEE Region 10 Conference (TENCON), Osaka, Japan, 2020.
+B.T. Atmaja and M. Akagi, “A simple repository for reproducible research based on Python recipe"
 ```
