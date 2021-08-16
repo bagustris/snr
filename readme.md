@@ -2,7 +2,7 @@
 
 
 by
-Bagus Tris Atmaja, Masato Akagi
+Bagus Tris Atmaja, Akira Sasou, Masato Akagi
 
 Email: bagus@ep.its.ac.id
 
