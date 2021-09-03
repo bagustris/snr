@@ -1,5 +1,6 @@
-# A repository for paper *"Automatic Speech Naturalness Recognition from Acted Dialogue"*
+# A repository for paper *" Automatic Naturalness Recognition from Acted Speech Using Neural Networks"*
 
+This paper is accepted in APSIPA-ASC 2021, Tokyo. Pre-print and slide will be added in this repository.
 
 by
 Bagus Tris Atmaja, Akira Sasou, Masato Akagi
