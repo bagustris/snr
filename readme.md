@@ -18,5 +18,6 @@ This study proposes an automatic naturalness recognition from an acted dialogue.
 
 ## Citation
 Please cite this work as:  
-``` 
-B. T. Atmaja, A. Sasou, and M. Akagi, “Automatic Naturalness Recognition from Acted Speech Using Neural Networks,” in APSIPA Annual Summit and Conference, 2021, pp. 731–736.```
+
+> B. T. Atmaja, A. Sasou, and M. Akagi, “Automatic Naturalness Recognition 
+> from Acted Speech Using Neural Networks,” in APSIPA Annual Summit and Conference, 2021, pp. 731–736.
